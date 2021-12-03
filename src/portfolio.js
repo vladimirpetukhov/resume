@@ -303,6 +303,17 @@ const bigProjects = {
           url: "http://www.netmed360.com/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/allianz.png"),
+      projectName: "Allianz",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://portal.allianz.bg/"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
