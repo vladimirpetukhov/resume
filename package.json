@@ -1,6 +1,6 @@
 {
-  "homepage": "",
-  "name": "portfolio",
+  "name": "portfolio",  
+  "homepage": "http://vladimirpetukhov.github.io/resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,8 +15,7 @@
     "react-lottie": "^1.2.3",
     "react-reveal": "^1.2.2",
     "react-scripts": "^3.4.3",
-    "react-twitter-embed": "3.0.3",
-    "homepage": "http://vladimirpetukhov.github.io/resume"
+    "react-twitter-embed": "3.0.3"
   },
   "scripts": {
     "predeploy": "npm run build",
