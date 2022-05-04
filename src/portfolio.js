@@ -23,6 +23,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/vladimirpetukhov",
+  gitlab: "https://gitlab.com/vladimirpetukhov1",
   // linkedin: "https://www.linkedin.com/in/",
   gmail: "vpetukhov.dev@gmail.com",
   // gitlab: "https://gitlab.com/",
@@ -83,6 +84,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "reactjs",
       fontAwesomeClassname: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      skillName: "vuejs",
+      fontAwesomeClassname: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
     },
     {
       skillName: "typescript",
@@ -183,6 +188,10 @@ const techStack = {
     {
       Stack: "ReactJs",
       progressPercentage: "60%"
+    },
+    {
+      Stack: "VueJs",
+      progressPercentage: "40%"
     },
 
   ],
@@ -300,7 +309,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://www.netmed360.com/"
+          url: "https://cloud.netmed360.com/"
         }
       ]
     },
@@ -395,12 +404,6 @@ const blogSection = {
       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
       description:
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
   display: false // Set false to hide this section, defaults to true
