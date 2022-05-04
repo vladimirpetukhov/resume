@@ -323,6 +323,28 @@ const bigProjects = {
           url: "https://portal.allianz.bg/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/allianz.png"),
+      projectName: "Allianz My Car",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.allianz.bg/bg_BG/q-b-motor.html/start"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/allianz.png"),
+      projectName: "Allianz My Home",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.allianz.bg/bg_BG/q-b-property.html/start"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
