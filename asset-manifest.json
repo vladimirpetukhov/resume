@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.cc42584a.chunk.css",
-    "main.js": "/resume/static/js/main.34beeef6.chunk.js",
-    "main.js.map": "/resume/static/js/main.34beeef6.chunk.js.map",
+    "main.css": "/resume/static/css/main.94dad757.chunk.css",
+    "main.js": "/resume/static/js/main.11ad0038.chunk.js",
+    "main.js.map": "/resume/static/js/main.11ad0038.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.05a1b60b.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.05a1b60b.js.map",
-    "static/js/2.db74f5b8.chunk.js": "/resume/static/js/2.db74f5b8.chunk.js",
-    "static/js/2.db74f5b8.chunk.js.map": "/resume/static/js/2.db74f5b8.chunk.js.map",
+    "static/js/2.98dfff26.chunk.js": "/resume/static/js/2.98dfff26.chunk.js",
+    "static/js/2.98dfff26.chunk.js.map": "/resume/static/js/2.98dfff26.chunk.js.map",
     "static/css/3.3a26ebde.chunk.css": "/resume/static/css/3.3a26ebde.chunk.css",
     "static/js/3.ac1c6d58.chunk.js": "/resume/static/js/3.ac1c6d58.chunk.js",
     "static/js/3.ac1c6d58.chunk.js.map": "/resume/static/js/3.ac1c6d58.chunk.js.map",
@@ -14,12 +14,12 @@
     "static/js/4.6b6c2280.chunk.js": "/resume/static/js/4.6b6c2280.chunk.js",
     "static/js/4.6b6c2280.chunk.js.map": "/resume/static/js/4.6b6c2280.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.46f0e5a977b02f7135320bcf864b18d9.js": "/resume/precache-manifest.46f0e5a977b02f7135320bcf864b18d9.js",
+    "precache-manifest.9c3ff94022a71000672642a637a3fd44.js": "/resume/precache-manifest.9c3ff94022a71000672642a637a3fd44.js",
     "service-worker.js": "/resume/service-worker.js",
     "static/css/3.3a26ebde.chunk.css.map": "/resume/static/css/3.3a26ebde.chunk.css.map",
     "static/css/4.ea3dbbf2.chunk.css.map": "/resume/static/css/4.ea3dbbf2.chunk.css.map",
-    "static/css/main.cc42584a.chunk.css.map": "/resume/static/css/main.cc42584a.chunk.css.map",
-    "static/js/2.db74f5b8.chunk.js.LICENSE.txt": "/resume/static/js/2.db74f5b8.chunk.js.LICENSE.txt",
+    "static/css/main.94dad757.chunk.css.map": "/resume/static/css/main.94dad757.chunk.css.map",
+    "static/js/2.98dfff26.chunk.js.LICENSE.txt": "/resume/static/js/2.98dfff26.chunk.js.LICENSE.txt",
     "static/media/index.css": "/resume/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Bisoft_New.png": "/resume/static/media/Bisoft_New.92f61122.png",
     "static/media/GISExplorerLogo_200x65.jpg": "/resume/static/media/GISExplorerLogo_200x65.76bc8658.jpg",
@@ -40,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.05a1b60b.js",
-    "static/js/2.db74f5b8.chunk.js",
-    "static/css/main.cc42584a.chunk.css",
-    "static/js/main.34beeef6.chunk.js"
+    "static/js/2.98dfff26.chunk.js",
+    "static/css/main.94dad757.chunk.css",
+    "static/js/main.11ad0038.chunk.js"
   ]
 }
